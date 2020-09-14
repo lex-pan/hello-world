@@ -1,5 +1,7 @@
-# hello-world
+# hello-
 
-My name is lex thx for reviewing this code.
+this is my nth attempt for pull requests
 
-git hub tutorial
+:D
+
+let's hope it work
